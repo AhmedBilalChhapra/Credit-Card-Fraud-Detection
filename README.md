@@ -9,3 +9,5 @@ Precision: 0.97
 Recall: 0.78
 
 MCC: 0.87
+
+Dataset: Download the CSV file used in this project through https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
